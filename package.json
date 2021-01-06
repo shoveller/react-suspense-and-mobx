@@ -1,0 +1,21 @@
+{
+  "name": "react-suspense-and-mobx",
+  "version": "1.0.0",
+  "description": "https://github.com/mobxjs/mobx/issues/1646",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "mobx": "5.0.3",
+    "mobx-react": "5.2.3",
+    "react": "16.4.0-alpha.0911da3",
+    "react-dom": "16.4.0-alpha.0911da3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
